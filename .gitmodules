@@ -10,6 +10,6 @@
 [submodule "Common/MU_OEM_SAMPLE"]
 	path = Common/MU_OEM_SAMPLE
 	url = https://github.com/Microsoft/mu_oem_sample.git
-[submodule "Silicon/ARM/MU_TIANO"]
-	path = Silicon/ARM/MU_TIANO
+[submodule "Silicon/ARM_temp/MU_TIANO"]
+	path = Silicon/ARM_temp/MU_TIANO
 	url = https://github.com/Microsoft/mu_silicon_arm_tiano.git
